@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mustafa",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yönetirim?",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 2,
+      "user": "Bera",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir?",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "378a0574-a91e-417e-ae41-a301fe1234e0",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "id": "ff867aec-1452-4ec5-bb37-75ccd6234fe4",
+      "date": "2023-09-11T19:59:57.523Z",
+      "title": "MVVM Nedir?",
+      "text": "Nası l oluyor\n",
+      "user": "Zeynep"
+    },
+    {
+      "id": "02db8f75-0321-4edb-af18-e5b0783acda6",
+      "date": "2023-09-11T20:00:15.908Z",
+      "title": "React ile proje ",
+      "text": "React ile proje  nasıl geliştirilir????",
+      "user": "Ayşe"
+    },
+    {
+      "id": "fd0b0ea3-fc16-44dc-9d47-fb299a5a9a0e",
+      "date": "2023-10-13T17:37:38.872Z",
+      "title": "1234",
+      "text": "13123",
+      "user": "Ahmet"
+    },
+    {
+      "id": "50eb805e-7f6a-41a1-87f2-c67b84192232",
+      "date": "2024-01-04T06:58:09.522Z",
+      "user": "Cvhrcck",
+      "title": "Holiday",
+      "text": "Diferent Contry discover "
+    },
+    {
+      "id": "eb6ab29c-7c27-42a3-9f1c-9f1e09a038a1",
+      "date": "2024-01-04T09:02:09.196Z",
+      "user": "Zehra",
+      "title": "Mvc yeni proje",
+      "text": "Mvc mimarisi öğren"
+    },
+    {
+      "id": "7e8ddd8d-98cb-456b-9ad7-e06d963373fd",
+      "date": "2024-01-04T09:03:38.011Z",
+      "user": "Ali",
+      "title": "React",
+      "text": "React Proje Geliştir"
+    }
+  ]
+}
